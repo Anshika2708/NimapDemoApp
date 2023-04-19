@@ -1,0 +1,60 @@
+{
+  "home": [
+    {
+      "file1": "https://cdn3.iconfinder.com/data/icons/business-vol-26/100/Artboard_2-1024.png",
+      "firstname": "anshika singh",
+      "lastname": "akarsh",
+      "email": "vdgasg@gmail.com",
+      "phone": 65588767887,
+      "age": 16,
+      "state": "UP",
+      "country": "India",
+      "address": "fgdfgasgv",
+      "tags": "hsahsghas",
+      "subscribe": true,
+      "id": 1
+    },
+    {
+      "file1": "https://cdn3.iconfinder.com/data/icons/business-vol-26/100/Artboard_2-1024.png",
+      "firstname": "ritika",
+      "lastname": "singh",
+      "email": "ritika321@gmail.com",
+      "phone": 7896533566,
+      "age": 25,
+      "state": "UP",
+      "country": "US",
+      "address": "parel",
+      "tags": "cricket",
+      "subscribe": true,
+      "id": 2
+    },
+    {
+      "file1": "https://cdn3.iconfinder.com/data/icons/business-vol-26/100/Artboard_2-1024.png",
+      "firstname": "aryan",
+      "lastname": "shinde",
+      "email": "aryan@123gmail.com",
+      "phone": 7890654321,
+      "age": 31,
+      "state": "MH",
+      "country": "India",
+      "address": "ghatkopar",
+      "tags": "batmintan",
+      "subscribe": true,
+      "id": 3
+    },
+    {
+      "file1": "https://cdn3.iconfinder.com/data/icons/business-vol-26/100/Artboard_2-1024.png",
+      "firstname": "ishika",
+      "lastname": "singh",
+      "email": "ishika2344@gmail.com",
+      "phone": 54654667576576,
+      "age": 26,
+      "state": "MH",
+      "country": "India",
+      "address": "varanasi",
+      "tags": "football",
+      "subscribe": "true",
+      "id": 4
+    }
+  ]
+}
